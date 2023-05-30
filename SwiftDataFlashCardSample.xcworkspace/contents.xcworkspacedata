@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:Start"
+      name = "Start">
+      <FileRef
+         location = "group:SwiftDataFlashCardSample.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:FlashCard"
+         name = "FlashCard">
+         <FileRef
+            location = "group:SwiftDataFlashCardSample.swift">
+         </FileRef>
+         <FileRef
+            location = "group:FlashCard.entitlements">
+         </FileRef>
+         <Group
+            location = "group:Assets.xcassets"
+            name = "Assets.xcassets">
+            <Group
+               location = "group:Card Front.colorset"
+               name = "Card Front.colorset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:AccentColor.colorset"
+               name = "AccentColor.colorset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Card Back.colorset"
+               name = "Card Back.colorset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+            <Group
+               location = "group:Card Text.colorset"
+               name = "Card Text.colorset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+         </Group>
+         <Group
+            location = "group:Support"
+            name = "Support">
+            <FileRef
+               location = "group:PreviewSampleData.swift">
+            </FileRef>
+            <FileRef
+               location = "group:UTType+FlashCards.swift">
+            </FileRef>
+            <FileRef
+               location = "group:HorizontalFlip.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Design.swift">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Model"
+            name = "Model">
+            <FileRef
+               location = "group:Card.swift">
+            </FileRef>
+            <FileRef
+               location = "group:SampleDeck.swift">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Views"
+            name = "Views">
+            <FileRef
+               location = "group:FlashCardView.swift">
+            </FileRef>
+            <FileRef
+               location = "group:EditorToolbar.swift">
+            </FileRef>
+            <FileRef
+               location = "group:CardCarousel.swift">
+            </FileRef>
+            <FileRef
+               location = "group:CardEditorView.swift">
+            </FileRef>
+            <FileRef
+               location = "group:CardReaderView.swift">
+            </FileRef>
+            <FileRef
+               location = "group:CardGallery.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ContentView.swift">
+            </FileRef>
+            <FileRef
+               location = "group:CardContainerView.swift">
+            </FileRef>
+            <FileRef
+               location = "group:CardGalleryItem.swift">
+            </FileRef>
+         </Group>
+      </Group>
+   </Group>
+   <Group
+      location = "group:End"
+      name = "End">
+      <FileRef
+         location = "group:SwiftDataFlashCardSample.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:FlashCard"
+         name = "FlashCard">
+         <FileRef
+            location = "group:SwiftDataFlashCardSample.swift">
+         </FileRef>
+         <FileRef
+            location = "group:FlashCard.entitlements">
+         </FileRef>
+         <Group
+            location = "group:Assets.xcassets"
+            name = "Assets.xcassets">
+            <Group
+               location = "group:Card Front.colorset"
+               name = "Card Front.colorset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:AccentColor.colorset"
+               name = "AccentColor.colorset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Card Back.colorset"
+               name = "Card Back.colorset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+            <Group
+               location = "group:Card Text.colorset"
+               name = "Card Text.colorset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+         </Group>
+         <Group
+            location = "group:Support"
+            name = "Support">
+            <FileRef
+               location = "group:PreviewSampleData.swift">
+            </FileRef>
+            <FileRef
+               location = "group:UTType+FlashCards.swift">
+            </FileRef>
+            <FileRef
+               location = "group:HorizontalFlip.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Design.swift">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Model"
+            name = "Model">
+            <FileRef
+               location = "group:Card.swift">
+            </FileRef>
+            <FileRef
+               location = "group:SampleDeck.swift">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Views"
+            name = "Views">
+            <FileRef
+               location = "group:FlashCardView.swift">
+            </FileRef>
+            <FileRef
+               location = "group:EditorToolbar.swift">
+            </FileRef>
+            <FileRef
+               location = "group:CardCarousel.swift">
+            </FileRef>
+            <FileRef
+               location = "group:CardEditorView.swift">
+            </FileRef>
+            <FileRef
+               location = "group:CardReaderView.swift">
+            </FileRef>
+            <FileRef
+               location = "group:CardGallery.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ContentView.swift">
+            </FileRef>
+            <FileRef
+               location = "group:CardContainerView.swift">
+            </FileRef>
+            <FileRef
+               location = "group:CardGalleryItem.swift">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>
