@@ -6,10 +6,12 @@ A model that represents a card.
 */
 
 import Foundation
+import SwiftData
 
-final class Card: ObservableObject {
-    @Published var front: String
-    @Published var back: String
+@Model
+final class Card {
+    var front: String
+    var back: String
     var creationDate: Date
 
     init(front: String, back: String, creationDate: Date = .now) {

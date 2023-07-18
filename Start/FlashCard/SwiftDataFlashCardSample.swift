@@ -6,6 +6,7 @@ The main entry for the app.
 */
 
 import SwiftUI
+import SwiftData
 
 @main
 struct SwiftDataFlashCardSample: App {
@@ -13,5 +14,7 @@ struct SwiftDataFlashCardSample: App {
         WindowGroup {
             ContentView()
         }
+        //when declared like this will be inherited for each view inside hierarchy
+        .modelContainer(for: Card.self)
     }
 }

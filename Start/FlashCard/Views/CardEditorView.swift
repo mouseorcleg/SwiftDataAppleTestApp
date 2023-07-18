@@ -8,7 +8,10 @@ A view for editing the content of a card.
 import SwiftUI
 
 struct CardEditorView: View {
-    @ObservedObject var card: Card
+    
+    //replaces observable object for @Model class
+    @Bindable var card: Card
+    
     @FocusState private var focusedField: FocusedField?
 
     var body: some View {
